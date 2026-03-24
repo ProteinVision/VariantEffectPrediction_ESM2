@@ -1,0 +1,21 @@
+name: ProteinVision_VEP
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pytorch=2.5.1
+  #- pytorch-cuda=12.4  # adjust if your CUDA version is different, or remove if CPU only
+  - pandas
+  - tqdm
+  - jupyterlab
+  - ipykernel 
+  - openpyxl
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+      - fair-esm==1.0.3
