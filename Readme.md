@@ -6,8 +6,8 @@ Code and data for a hands-on tutorial on **using ESM-2 in Python for variant eff
 > - [Python walkthrough: zero-shot and fine-tuned VEP with ESM-2](https://www.youtube.com/@ProteinVision)
 
 📚 References:
-- ESM-2 paper: [https://www.nature.com/articles/s41586-024-08203-9](https://www.science.org/doi/10.1126/science.ade2574)
-- GRB2 DMS dataset source: https://github.com/gitter-lab/metl-pub/blob/main/data/dms_data/grb2-binding/grb2-binding.tsv
+- [ESM-2 paper](https://www.science.org/doi/10.1126/science.ade2574)
+- [GRB2 DMS dataset source](https://github.com/gitter-lab/metl-pub/blob/main/data/dms_data/grb2-binding/grb2-binding.tsv)
 
 ---
 
