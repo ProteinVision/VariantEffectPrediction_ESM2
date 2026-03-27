@@ -3,7 +3,7 @@
 Code and data for a hands-on tutorial on **using ESM-2 in Python for variant effect prediction (VEP)** on the GRB2 binding dataset.
 
 🎥 Tutorial videos:
-> - [Python walkthrough: zero-shot and fine-tuned VEP with ESM-2](https://www.youtube.com/@ProteinVision)
+> - [Python walkthrough: zero-shot and fine-tuned VEP with ESM-2](https://youtu.be/Of255xg3Ruc)
 
 📚 References:
 - [ESM-2 paper](https://www.science.org/doi/10.1126/science.ade2574)
